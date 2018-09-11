@@ -1,0 +1,213 @@
+body{
+	font-family: 'Lato', sans-serif;
+
+}
+
+/*Header Section start*/
+.logo{
+	margin: 10px 0;
+}
+
+.Header-main {
+	background: url(../image/Banner-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner-main{
+	/*width: 100%;*/
+	margin: 16% auto;
+}
+
+.banner-main h2{
+	text-transform: uppercase;
+    color: #fff;
+    font-size: 56px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+.banner-main span{
+	text-transform: uppercase;
+    color: #fff;
+}
+
+.banner-main p{
+	color: #fff;
+	padding: 10px 0px 20px;
+	font-family: 'Lato', sans-serif;
+}
+
+.button{
+	border: 1px solid #15a4fa;
+    padding: 5px 17px;
+    color: #fff;
+    background: transparent;
+    transition: 0.8s;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+.button:hover{
+	background: deepskyblue;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 3px 3px #607D8B;
+
+}
+.check {
+	/*padding: 100px 0px 10px;*/
+	width: 1%;
+	margin: 0 auto;
+}
+
+/*Header Section End*/
+
+
+/*Design Section start*/
+.design{
+	text-align: center;
+	margin: 40px auto;
+}
+
+.design h2{
+	color: #323E54;
+    padding: 10px 0;
+    font-family: 'Lato', sans-serif;
+
+
+}
+.design p{
+	color: #323E54;
+    padding: 10px 0;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+/*Design Section End*/
+
+/*Icon Section start*/
+.responsive-1{
+	text-align: center;
+}
+
+.responsive-1 h4{
+	text-align: center;
+    padding: 10px 0px 0;
+    font-size: 19px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.responsive-1 p{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+
+}
+
+/*Icon Section End*/
+
+
+/*Portfolio Section Start*/
+.portfolio {
+	margin: 30px auto;
+}
+
+.port-head{
+	text-align: center;
+}
+.port-head h2{
+
+}
+.port-head p {
+	padding-bottom: 18px;
+	font-family: 'Lato', sans-serif;
+
+
+}
+.port-img{
+	padding: 10px 0;
+}
+
+/*Portfolio Section End*/
+.contact{
+	background: url(../image/bg-contact.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 30px auto;
+}
+/*Contact Section End*/
+.contact-us{
+	padding: 20px 0;
+}
+.contact-form {
+	text-align: center;
+	margin: 60px auto;
+}
+.contact-form h2{
+	color: #fff;
+    font-size: 45px;
+    font-family: 'Lato', sans-serif;
+
+    
+}
+
+.contact-form p{
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+
+
+}
+
+.form-group{
+	width: 60%;
+	margin: 0 auto
+
+
+}
+.form-control{
+	width: 50%;
+	margin: 0 auto;
+}
+.check-01{
+	margin: 0 auto;
+	text-align: center;
+}
+
+/*Contact Section End*/
+
+
+/*Footer Section Start*/
+.copyright p {
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.social{
+
+}
+
+.social ul{
+    
+}
+
+
+.social ul li{
+    display: inline;
+    float: right;
+    padding: 16px 9px;
+}
+.fa-facebook, .fa-linkedin,.fa-twitter, .fa-youtube {
+    background: #44B5FA;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+
+
+}
+/*Footer Section End*/
